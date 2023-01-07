@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://bregwin-jogi.netlify.app/#](https://bregwin-jogi.netlify.app/#)
 
-- 📫 How to reach me **bregwinpaul@gmail.com**
+- 📫 Feel free to contact me at **bregwinpaul@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
