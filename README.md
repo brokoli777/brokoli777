@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bregwin Jogi</h1>
 <h3 align="center">An aspiring software developer studying at Seneca College</h3>
 
-- 🌱 I’m currently learning **React and Node.js**
+- 🌱 I’m currently learning **C++, Javascript, React and Node.js**
 
 - 👨‍💻 All of my projects are available at [https://bregwin-jogi.netlify.app/#](https://bregwin-jogi.netlify.app/#)
 
