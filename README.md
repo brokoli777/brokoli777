@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **C++, Javascript, React and Node.js**
 
-- 👨‍💻 All of my projects are available at [https://bregwin-jogi.netlify.app/#](https://bregwin-jogi.netlify.app/#)
+- 👨‍💻 All of my projects are available at [https://bregwin-jogi.netlify.app/](https://bregwin-jogi.netlify.app/#)
 
 - 📫 Feel free to contact me at **bregwinpaul@gmail.com**
 
