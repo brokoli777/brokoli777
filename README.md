@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Python, Java, and C#**
 
-- 👨‍💻 All of my projects are available at [bregwin.com](https://bregwin.com)
+- 👨‍💻 All of my projects are available here or at [bregwin.com](https://bregwin.com)!
 
 - 📫 Feel free to contact me at **bregwinpaul@gmail.com**
 
