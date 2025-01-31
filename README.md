@@ -1,9 +1,10 @@
-# Hey there! 👋
+# Hey there! I am Bregwin Jogi👋
 
 🚨 **Important Update:** 🚨  
-I’ve changed my GitHub username from **brokoli777** to **bregwin**.  
-Sorry for the inconvenience! 😅  
-For the most actual profile and repositories, please visit my new username at:  
+I’ve changed my GitHub username from **brokoli777** to [**bregwin**](https://github.com/bregwin).  
+
+Sorry for the inconvenience!\
+For my current profile and repositories, please visit my new username at:  
 👉 [**bregwin**](https://github.com/bregwin)
 
 ## 🌱 About Me
