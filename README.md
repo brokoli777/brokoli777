@@ -13,7 +13,7 @@ I'm a passionate developer always looking to learn new things and improve my ski
 ## 🔗 Contact Me
 
 - [GitHub Profile](https://github.com/bregwin)
-- [LinkedIn](https://www.linkedin.com/in/bregwin) 
+- [LinkedIn](https://www.linkedin.com/in/bregwin-paul/) 
 - [Website](https://www.bregwin.com) 
 
 Thanks for stopping by, and I appreciate your understanding! 😄
